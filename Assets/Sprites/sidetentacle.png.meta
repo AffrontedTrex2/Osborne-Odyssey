@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 73ad9b4132ec4a84a92f7edba3983ab9
+timeCreated: 1524282763
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sidetentacle_0
+    21300002: sidetentacle_1
+    21300004: sidetentacle_2
+    21300006: sidetentacle_3
+    21300008: sidetentacle_4
+    21300010: sidetentacle_5
+    21300012: sidetentacle_6
+    21300014: sidetentacle_7
+    21300016: sidetentacle_8
+    21300018: sidetentacle_9
+    21300020: sidetentacle_10
+    21300022: sidetentacle_11
+    21300024: sidetentacle_12
+    21300026: sidetentacle_13
+    21300028: sidetentacle_14
+    21300030: sidetentacle_15
+    21300032: sidetentacle_16
+    21300034: sidetentacle_17
+    21300036: sidetentacle_18
+    21300038: sidetentacle_19
+    21300040: sidetentacle_20
+    21300042: sidetentacle_21
+    21300044: sidetentacle_22
+    21300046: sidetentacle_23
+    21300048: sidetentacle_24
+    21300050: sidetentacle_25
+    21300052: sidetentacle_26
+    21300054: sidetentacle_27
+    21300056: sidetentacle_28
+    21300058: sidetentacle_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sidetentacle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 410
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1025.4546
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1025.4546
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 923.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 923.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 821.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 821.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_8
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 821.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 719.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 719.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 617.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 617.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_14
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 617.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 515.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 515.4545
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413.45453
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 413.45453
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_20
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 413.45453
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311.45453
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 311.45453
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_23
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 311.45453
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209.45454
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 209.45454
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_26
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 209.45454
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107.454544
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 107.454544
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidetentacle_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 107.454544
+        width: 410
+        height: 102.545456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

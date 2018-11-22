@@ -1,0 +1,1363 @@
+fileFormatVersion: 2
+guid: 63244ec6e141df64fb39a9c67267cd8f
+timeCreated: 1523678996
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ozzyface_0
+    21300002: ozzyface_1
+    21300004: ozzyface_2
+    21300006: ozzyface_3
+    21300008: ozzyface_4
+    21300010: ozzyface_5
+    21300012: ozzyface_6
+    21300014: ozzyface_7
+    21300016: ozzyface_8
+    21300018: ozzyface_9
+    21300020: ozzyface_10
+    21300022: ozzyface_11
+    21300024: ozzyface_12
+    21300026: ozzyface_13
+    21300028: ozzyface_14
+    21300030: ozzyface_15
+    21300032: ozzyface_16
+    21300034: ozzyface_17
+    21300036: ozzyface_18
+    21300038: ozzyface_19
+    21300040: ozzyface_20
+    21300042: ozzyface_21
+    21300044: ozzyface_22
+    21300046: ozzyface_23
+    21300048: ozzyface_24
+    21300050: ozzyface_25
+    21300052: ozzyface_26
+    21300054: ozzyface_27
+    21300056: ozzyface_28
+    21300058: ozzyface_29
+    21300060: ozzyface_30
+    21300062: ozzyface_31
+    21300064: ozzyface_32
+    21300066: ozzyface_33
+    21300068: ozzyface_34
+    21300070: ozzyface_35
+    21300072: ozzyface_36
+    21300074: ozzyface_37
+    21300076: ozzyface_38
+    21300078: ozzyface_39
+    21300080: ozzyface_40
+    21300082: ozzyface_41
+    21300084: ozzyface_42
+    21300086: ozzyface_43
+    21300088: ozzyface_44
+    21300090: ozzyface_45
+    21300092: ozzyface_46
+    21300094: ozzyface_47
+    21300096: ozzyface_48
+    21300098: ozzyface_49
+    21300100: ozzyface_50
+    21300102: ozzyface_51
+    21300104: ozzyface_52
+    21300106: ozzyface_53
+    21300108: ozzyface_54
+    21300110: ozzyface_55
+    21300112: ozzyface_56
+    21300114: ozzyface_57
+    21300116: ozzyface_58
+    21300118: ozzyface_59
+    21300120: ozzyface_60
+    21300122: ozzyface_61
+    21300124: ozzyface_62
+    21300126: ozzyface_63
+    21300128: ozzyface_64
+    21300130: ozzyface_65
+    21300132: ozzyface_66
+    21300134: ozzyface_67
+    21300136: ozzyface_68
+    21300138: ozzyface_69
+    21300140: ozzyface_70
+    21300142: ozzyface_71
+    21300144: ozzyface_72
+    21300146: ozzyface_73
+    21300148: ozzyface_74
+    21300150: ozzyface_75
+    21300152: ozzyface_76
+    21300154: ozzyface_77
+    21300156: ozzyface_78
+    21300158: ozzyface_79
+    21300160: ozzyface_80
+    21300162: ozzyface_81
+    21300164: ozzyface_82
+    21300166: ozzyface_83
+    21300168: ozzyface_84
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ozzyface_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3011.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3011.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3011.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3011.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3011.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2823.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2823.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2823.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2823.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2823.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2635.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2635.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2635.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2635.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2635.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2447.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2447.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2447.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2447.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2447.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2259.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2259.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2259.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2259.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2071.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2071.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2071.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2071.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2071.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1883.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1883.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1883.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1883.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1883.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1695.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1695.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1695.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1695.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1695.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1507.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1507.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1507.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1507.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1507.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1319.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1319.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1319.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_48
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1319.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_49
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1319.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1131.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1131.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1131.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1131.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1131.7646
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 943.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 943.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 943.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_58
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 943.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_59
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 943.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 755.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 755.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 755.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 755.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_64
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 755.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 567.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 567.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_68
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 567.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_69
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 567.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 379.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_72
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 379.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_73
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 379.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 379.7647
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191.76471
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191.76471
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 191.76471
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_78
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 191.76471
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_79
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 191.76471
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.7647095
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_81
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3.7647095
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3.7647095
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_83
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3.7647095
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ozzyface_84
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3.7647095
+        width: 200
+        height: 188.23529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
