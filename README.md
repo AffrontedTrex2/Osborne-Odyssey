@@ -1,5 +1,5 @@
 # Osborne Odyssey
-Created in 2018 with a team of six for the Microsoft Hunt the Wumpus competition.
+Created in 2018 with a team of six for the Microsoft Hunt the Wumpus competition. It won 1st place for Most Innovative.
 ## Running the Game
 Play by downloading all the files and running the .exe file.
 ## Story
